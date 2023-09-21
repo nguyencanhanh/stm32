@@ -1,0 +1,17 @@
+../Core/Src/main.c:54:6:Delay_us	16	static
+../Core/Src/main.c:59:6:Delay_ms	16	static
+../Core/Src/main.c:67:6:on_voice	8	static
+../Core/Src/main.c:79:6:UART_sendData	16	static
+../Core/Src/main.c:89:6:UART_sendFloat	40	static
+../Core/Src/main.c:99:6:DHT22_Start	8	static
+../Core/Src/main.c:112:9:DHT22_checkResponse	16	static
+../Core/Src/main.c:137:6:DHT22_readData	40	static
+../Core/Src/main.c:183:6:warning	24	static
+../Core/Src/main.c:231:5:main	16	static
+../Core/Src/main.c:297:6:SystemClock_Config	88	static
+../Core/Src/main.c:344:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:418:13:MX_TIM1_Init	32	static
+../Core/Src/main.c:464:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:495:13:MX_DMA_Init	16	static
+../Core/Src/main.c:513:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:549:6:Error_Handler	4	static,ignoring_inline_asm
